@@ -1,0 +1,28 @@
+{
+  "name": "gitignore",
+  "version": "1.0.0",
+  "description": "Create .gitignore file from any source",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/dominhhai/gitignore.git"
+  },
+  "keywords": [
+    "gitignore"
+  ],
+  "author": "Do Minh Hai",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/dominhhai/gitignore/issues"
+  },
+  "homepage": "https://github.com/dominhhai/gitignore#readme",
+  "dependencies": {
+    "commander": "^2.18.0"
+  },
+  "engines": {
+    "node" : ">=8.0.0"
+  }
+}
