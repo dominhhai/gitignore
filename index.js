@@ -1,3 +1,5 @@
+#!/usr/bin/env node
+
 const os = require('os')
 const commander = require('commander')
 const sources = require('./lib/sources')

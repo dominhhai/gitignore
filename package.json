@@ -1,8 +1,11 @@
 {
   "name": "giig",
-  "version": "1.0.1",
+  "version": "1.0.2",
   "description": "Create .gitignore file from any source",
   "main": "index.js",
+  "bin": {
+    "giig": "./index.js"
+  },
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
   },
