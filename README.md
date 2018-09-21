@@ -18,7 +18,7 @@ Options:
   - `-d, --dest [dest]`: project root (default: .gitignore)
   - `-h, --help`: output usage information
 
-The source must be registerd before using. Except the [`github`](https://github.com/github/gitignore/) is always available.
+The source must be registered before using. Except the [`github`](https://github.com/github/gitignore/) is always available. See [here](#4-addupdate-source-information) for more info.
 
 E.x: Download the [`Node`](https://github.com/github/gitignore/blob/master/Node.gitignore) template from [`github`](https://github.com/github/gitignore/)
 ```
@@ -26,7 +26,7 @@ $ gig fetch Node
 ```
 
 ## 2. List templates
-List all available .gitignore template from source `src` (default: github):
+List all available .gitignore templates from `src` source (default: github):
 ```
 $ gig list [src]
 ```
