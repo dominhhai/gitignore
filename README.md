@@ -1,9 +1,9 @@
-# gig
+# giig
 Create `.gitignore` file from any source such as [Github](https://github.com/github/gitignore/) or your local directory.
 
 # Installation
 ```
-$ npm i -g gig
+$ npm i -g giig
 ```
 
 # Usage

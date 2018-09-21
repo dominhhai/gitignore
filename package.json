@@ -1,5 +1,5 @@
 {
-  "name": "gig",
+  "name": "giig",
   "version": "1.0.0",
   "description": "Create .gitignore file from any source",
   "main": "index.js",
